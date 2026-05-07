@@ -89,7 +89,7 @@ This project is licensed under the MIT License — see the LICENSE file for deta
 Hi, I'm Sai Hemanth, a passionate Android & Flutter developer currently exploring mobile technologies, UI/UX, and AI integrations.
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/thogaruchesti-hemanth/)
-- 💼 [Portfolio](https://protfolio-taupe.vercel.app/)
+- 💼 [Portfolio](https://thogaruchesti-hemanth.web.app/)
 - 📧 Email: saihemanth225@gmail.com
 
 ## 🌟 Show Your Support
